@@ -782,7 +782,8 @@ dt {
 #header nav li.title {
   float: right;
   margin-right: 10px;
-  font-size: 11px;
+  font-size: 30px;
+  font-family: "Helvetica Neue"
 }
 
 section {
@@ -798,6 +799,7 @@ section #title {
   padding: 0 0 5px 0;
 }
 section #title h1 {
+  color: #FFFF00;
   font-family: 'OpenSansLight', "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: normal;
   font-size: 40px;
@@ -805,7 +807,7 @@ section #title h1 {
   line-height: 36px;
 }
 section #title p {
-  color: #d7cfbe;
+  color: 	#800000;
   font-family: 'OpenSansLight', "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: normal;
   font-size: 18px;
