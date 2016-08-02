@@ -20,15 +20,15 @@ font-size: 2rem;
 color: #ffff00;
 }
 
-happy {
+.happy {
 	padding: 250px 0;
 	margin: 30px;
   font-family: 'Trebuchet MS', Helvetica, sans-serif;color: #ffff00;
-background-image: url("images/Tulips.jpg");
+background-image: url("https://github.com/karolinahamilton/KH-PHOTO/blob/master/Images/IMG_6703.JPG");
   background-size: cover
 }
 
-Happy a {
+.Happy a {
 	color: #00FFAA;
 	font-size: 1.25em;
 	text-decoration: none;
