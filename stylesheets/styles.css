@@ -6,7 +6,7 @@ body {
 }
 
 h1 {
-	font-size: 32px; font-family: Palatino, 'Palatino Linotype', serif;color: rgb(46,105,163);
+	font-size: 32px; font-family: Palatino, 'Palatino Linotype', serif;color: skyblue);
 }
 
 h2 {
@@ -19,7 +19,7 @@ h2 {
 	padding: 250px 0;
 	margin: 30px;
   font-family: 'Trebuchet MS', Helvetica, sans-serif;color: #ffffff;
-background-image: url("http://www.gettyimages.pt/gi-resources/images/Homepage/Hero/PT/PT_hero_42_153645159.jpg");
+background-image: url("https://github.com/karolinahamilton/HereGoesNothing/blob/master/images/image.jpeg");
   background-size: cover
 
 }
