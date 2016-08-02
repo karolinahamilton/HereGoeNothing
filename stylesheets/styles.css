@@ -21,12 +21,13 @@ h2 {
 }
 
 
-.hero {
+hero {
 	padding: 250px 0;
 	margin: 30px;
   font-family: 'Trebuchet MS', Helvetica, sans-serif;color: white;
-background: #696969
-  background-size: cover
+    background-image: url("https://github.com/karolinahamilton/HereGoesNothing/blob/gh-pages/images/IMG_7040%5B1%5D.JPG?raw=true");
+    background-color: #cccccc;
+    background-size: cover
 
 }
 
@@ -38,7 +39,7 @@ font-size: 2rem;
 color: #708090;
 }
 
-.hero a {
+hero a {
 	color: #FFFAFA;
 	font-size: 1.25em;
 	text-decoration: none;
