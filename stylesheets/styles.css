@@ -1,6 +1,6 @@
 body {
 	height: 100%;
-	margin: 0;
+	margin: 20;
 	text-align: center;
 	width: 100%;
 }
@@ -11,14 +11,14 @@ h1 {
 
 h2 {
 	font-size: 56px;
-  color: #ffffff;
+  color: #ffff00;
 }
 
 
 happy {
 	padding: 250px 0;
 	margin: 30px;
-  font-family: 'Trebuchet MS', Helvetica, sans-serif;color: #ffffff;
+  font-family: 'Trebuchet MS', Helvetica, sans-serif;color: #ffff00;
 background-image: url("http://www.gettyimages.pt/gi-resources/images/Homepage/Hero/PT/PT_hero_42_153645159.jpg");
   background-size: cover
 }
@@ -26,7 +26,7 @@ background-image: url("http://www.gettyimages.pt/gi-resources/images/Homepage/He
 
 p {
 font-size: 2rem;
-color: #ffffff;
+color: #ffff00;
 }
 
 Happy a {
