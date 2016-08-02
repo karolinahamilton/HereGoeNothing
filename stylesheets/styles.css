@@ -6,20 +6,20 @@ body {
 }
 
 h1 {
-	font-size: 32px; font-family: Palatino, 'Palatino Linotype', serif;color: skyblue);
+	font-size: 32px; font-family: Palatino, 'Palatino Linotype', serif;color: green);
 }
 
 h2 {
 	font-size: 56px;
-  color: #ffffff;
+  color: blue;
 }
 
 
 .hero {
 	padding: 250px 0;
 	margin: 30px;
-  font-family: 'Trebuchet MS', Helvetica, sans-serif;color: #ffffff;
-background-image:url("http://www.gettyimages.pt/gi-resources/images/Homepage/Hero/PT/PT_hero_42_153645159.jpg")
+  font-family: 'Trebuchet MS', Helvetica, sans-serif;color: Blue;
+background-image: url("http://www.gettyimages.pt/gi-resources/images/Homepage/Hero/PT/PT_hero_42_153645159.jpg")
   background-size: cover
 
 }
@@ -29,11 +29,11 @@ background-image:url("http://www.gettyimages.pt/gi-resources/images/Homepage/Her
 
 p {
 font-size: 2rem;
-color: #ffffff;
+color: Blue;
 }
 
 .hero a {
-	color: #00FFAA;
+	color: black;
 	font-size: 1.25em;
 	text-decoration: none;
 }
