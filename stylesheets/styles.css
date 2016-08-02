@@ -3,7 +3,11 @@ body {
 	margin: 0;
 	text-align: center;
 	width: 100%;
-	background: #FFDAB9;
+	
+    background-image: url("image/images/IMG_7040[1].JPG");
+    background-color: #cccccc;
+
+
 }
 
 h1 {
