@@ -15,15 +15,13 @@ h2 {
 }
 
 
-.hero {
+happy {
 	padding: 250px 0;
 	margin: 30px;
   font-family: 'Trebuchet MS', Helvetica, sans-serif;color: #ffffff;
-background-image: url("https://github.com/karolinahamilton/KH-PHOTO/blob/master/Images/IMG_6703.JPG");
+background-image: url("KH-PHOTO/blob/master/Images/IMG_6703.JPG");
   background-size: cover
-
 }
-
 
 
 p {
@@ -31,7 +29,7 @@ font-size: 2rem;
 color: #ffffff;
 }
 
-.hero a {
+hero a {
 	color: #00FFAA;
 	font-size: 1.25em;
 	text-decoration: none;
