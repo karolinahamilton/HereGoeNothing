@@ -1,6 +1,6 @@
 body {
 	height: 100%;
-	margin: 20;
+	margin: 0;
 	text-align: center;
 	width: 100%;
 }
@@ -11,14 +11,9 @@ h1 {
 
 h2 {
 	font-size: 56px;
-  color: #ffff00;
+  color: #ffffff;
 }
 
-
-p {
-font-size: 2rem;
-color: #ffff00;
-}
 
 .hero {
 	padding: 250px 0;
@@ -32,7 +27,12 @@ background-image: url("https://s3.amazonaws.com/codecademy-content/projects/make
 
 
 
-.Hero a {
+p {
+font-size: 2rem;
+color: #ffffff;
+}
+
+.hero a {
 	color: #00FFAA;
 	font-size: 1.25em;
 	text-decoration: none;
