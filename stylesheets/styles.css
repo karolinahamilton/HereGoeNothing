@@ -3,6 +3,7 @@ body {
 	margin: 0;
 	text-align: center;
 	width: 100%;
+	background: #FFDAB9;
 }
 
 h1 {
@@ -18,8 +19,8 @@ h2 {
 .hero {
 	padding: 250px 0;
 	margin: 30px;
-  font-family: 'Trebuchet MS', Helvetica, sans-serif;color: #FFDAB9;
-background-image: url("http://www.w3schools.com/bootstrap/cinqueterre.jpg")
+  font-family: 'Trebuchet MS', Helvetica, sans-serif;color: white;
+background: #696969
   background-size: cover
 
 }
