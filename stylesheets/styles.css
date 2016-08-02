@@ -503,7 +503,7 @@ input[type="search"]::-webkit-search-cancel-button {
 button::-moz-focus-inner,
 input::-moz-focus-inner {
   border: 0;
-  padding: 0;
+  padding: 0; 
 }
 
 /*
@@ -591,13 +591,12 @@ nav li {
   padding: 0 10px;
   display: inline; 
 
-.hero {
+happy {
 	padding: 250px 0;
 	margin: 30px;
   font-family: 'Trebuchet MS', Helvetica, sans-serif;color: #ffffff;
-background-image: url("karolinahamilton/HereGoesNothing/images/tulips.jpg");
+background-image: url("images/Tulips.jpg");
   background-size: cover
-
 }
 
 section {
