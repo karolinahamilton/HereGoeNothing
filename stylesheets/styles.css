@@ -20,15 +20,19 @@ font-size: 2rem;
 color: #ffff00;
 }
 
-.happy {
+.hero {
 	padding: 250px 0;
 	margin: 30px;
-  font-family: 'Trebuchet MS', Helvetica, sans-serif;color: #ffff00;
-background-image: url("https://github.com/karolinahamilton/KH-PHOTO/blob/master/Images/IMG_6703.JPG");
+  font-family: 'Trebuchet MS', Helvetica, sans-serif;color: #ffffff;
+background-image: url("https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-2/bg.jpg");
   background-size: cover
+
 }
 
-.Happy a {
+
+
+
+.Hero a {
 	color: #00FFAA;
 	font-size: 1.25em;
 	text-decoration: none;
